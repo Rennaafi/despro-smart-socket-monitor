@@ -1,0 +1,9 @@
+Repository name: despro-smart-socket-monitor
+
+Description:
+Flutter + Firebase app for real-time smart-socket energy monitoring and control, with basic usage prediction, night-usage ratios, and abnormal-usage detection per socket.
+
+Suggested topics:
+flutter, firebase, firestore, iot, energy-monitoring, smart-home, dart, android
+
+Suggested visibility: Public (rotate/regenerate the Firebase API key before publishing if it was ever committed to a private repo you plan to make public)
